@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment configurations
+.env
+.env.*
+*.env
+nodes.json
+
+# Asymmetric Private Keys (Never commit private keys)
+keys/*.key
+*.key
+
+# Logs & Runtime states
+logs/
+*.log
+*.flag
+.alert_state.json
+
+# System & OS files
+.DS_Store
+Thumbs.db

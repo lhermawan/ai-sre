@@ -1,0 +1,18 @@
+{
+  "name": "ai-sre",
+  "version": "1.0.0",
+  "description": "AI-SRE Agentic Observability & Security Recon Service with Zero-Trust Asymmetric Authentication",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "metrics": "node cli.js metrics",
+    "recon": "node cli.js recon",
+    "all": "node cli.js all",
+    "test-auth": "node cli.js test-auth"
+  },
+  "author": "Maskii Studio / Friday AI-SRE",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.1"
+  }
+}

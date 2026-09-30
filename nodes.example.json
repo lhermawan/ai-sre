@@ -1,0 +1,12 @@
+[
+  {
+    "id": "production-main",
+    "name": "Production Server",
+    "url": "http://100.117.89.44:3400"
+  },
+  {
+    "id": "ai-hub-vm",
+    "name": "AI Command Center Hub",
+    "url": "http://127.0.0.1:3400"
+  }
+]
