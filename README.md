@@ -64,7 +64,7 @@
 ┌────────────────────────┐                             ┌────────────────────────┐
 │  AI-SRE Node (lucky)   │                             │  AI-SRE Node (atcs)    │
 │  - 14 PM2 Processes    │                             │  - KVM Hypervisor      │
-│  - MySQL & Nginx       │                             │  - Ant Media / Ollama  │
+│  - MySQL & Nginx       │                             │  - Ant Media           │
 └────────────────────────┘                             └────────────────────────┘
 ```
 
